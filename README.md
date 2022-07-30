@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi kumar</h1>
-<h3 align="center">I am an UG student in the Department of Electrical Engineering</h3>
-
-
-
+<h1 >Hi there 👋 </h1><br>
 - 🔭 I’m currently working on [SPI & CPI calculator](https://github.com/ravikumariitk/CPI-SPI-Calculator)
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
