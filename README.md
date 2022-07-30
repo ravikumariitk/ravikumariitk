@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
 
-- 👨‍💻Visit my website [https://ravikumariitk.github.io/portfolio/](https://ravikumariitk.github.io/portfilio/)
+- 👨‍💻Visit my website [https://ravikumariitk.github.io/portfolio/](https://ravikumariitk.github.io/portfolio/)
 
 - 📫 How to reach me **einsteinemc20@gmail.com**
 
