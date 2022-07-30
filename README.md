@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
 
-- 👨‍💻 All of my projects are available at [https://ravikumariitk.github.io/portfilio/](https://ravikumariitk.github.io/portfilio/)
+- 👨‍💻 All of my projects are available at [https://ravikumariitk.github.io/portfolio/](https://ravikumariitk.github.io/portfilio/)
 
 - 📫 How to reach me **einsteinemc20@gmail.com**
 
