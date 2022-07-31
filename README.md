@@ -1,4 +1,4 @@
-<h1 >Hi there 👋 </h1><br>
+<h1 >👋 Hi there, I'm Ravi </h1><br>
 - 🔭 I’m currently working on [SPI & CPI calculator](https://github.com/ravikumariitk/CPI-SPI-Calculator)
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
