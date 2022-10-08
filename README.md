@@ -1,6 +1,6 @@
 <h1 >👋 Hi there, I'm Ravi </h1><br>
-- 🔭 I’m currently working on <b> SPI & CPI calculator</b>(https://github.com/ravikumariitk/CPI-SPI-Calculator)<br>
-- 🔭 Also working on <b>ChatApp</b> (https://github.com/ravikumariitk/ChatApp)
+- 🔭 I’m currently working on <b>ChatApp</b> (https://github.com/ravikumariitk/ChatApp)
+
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
 
