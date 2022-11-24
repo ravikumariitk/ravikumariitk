@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
 
-- 👨‍💻Visit my website [https://ravikumariitk.github.io/portfolio/](https://ravikumariitk.github.io/portfolio/)
+- 👨‍💻Visit my website [https://home.iitk.ac.in/~kravi21/](https://home.iitk.ac.in/~kravi21/)
 
 - 📫 How to reach me **einsteinemc20@gmail.com**
 
