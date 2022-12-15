@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/ravi-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravi-kumar" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100074938255514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100074938255514" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_iitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_iitk" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravi_iitk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravi_iitk" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ravi_1604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravi_iitk" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
