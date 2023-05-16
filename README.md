@@ -6,7 +6,7 @@
 
 - 👨‍💻Visit my website [https://home.iitk.ac.in/~kravi21/](https://home.iitk.ac.in/~kravi21/)
 
-- 📫 How to reach me **einsteinemc20@gmail.com**
+- 📫 How to reach me **ravikumariitk21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
