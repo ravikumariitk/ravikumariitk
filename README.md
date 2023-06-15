@@ -1,6 +1,5 @@
 <h1 >👋 Hi there, I'm Ravi </h1><br>
-- 🔭 I’m currently working on <b>ChatApp</b> (https://github.com/ravikumariitk/ChatApp)
-
+- 🔭 I’m currently working on <b>ChatApp</b> (https://github.com/ravikumariitk/ChatApp) (have finished live at <a href="https://chatapp12.onrender.com/">This link</a>)
 
 - 🌱 I’m currently learning **Full stack web development, DSA**
 
