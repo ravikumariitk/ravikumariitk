@@ -1,9 +1,9 @@
 ```cpp
 class Ravi{
     string Name = "Ravi Kumar";
-    string located_in = "India";
+    string located_in = "Kanpur, India";
     string education = "Bachelor's in Electrical Engineering";
-    string institute = "IIT Kanpur";
+    string institute = "Indian Institute of Technology Kanpur";
     string job = "Summer Research Associate";    
     vector<string> fields_of_interests = ["Data Structure and Algorithms", "Software Development",
                                   "Computer Vision", "Web Development", "REST API Development"];
