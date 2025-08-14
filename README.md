@@ -4,7 +4,7 @@ class Ravi{
     string locatedIn = "Kanpur, India";
     string education = "Bachelor's in Electrical Engineering";
     string institute = "Indian Institute of Technology Kanpur";
-    string currentJob = "";
+    string currentJob = "IT Analyst @ NPCI";
     vector<string> pastJobs = ["Intern @ NPCI" , "Summer Research Associate @ Vibration Lab, IIT Kanpur"];
     vector<string> fieldsOfInterests = ["Data Structure and Algorithms", "Software Development",
                                   "Computer Vision", "Web Development", "REST API Development", "Blockchain"];
